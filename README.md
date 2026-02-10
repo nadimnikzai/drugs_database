@@ -58,12 +58,14 @@ You don't need XAMPP or WAMP. You just need **Docker**!
 ```bash
 git clone [https://github.com/nadimnikzai/drugs_database.git](https://github.com/nadimnikzai/drugs_database.git)
 cd drugs_database
+```
 2. Run with Docker Compose 🐳
 Fire up the engines:
 
 Bash
-
+``` bash
 docker-compose up -d --build
+```
 Wait a few moments for the containers to build and start...
 
 3. Access the App 🌐
@@ -91,13 +93,13 @@ drugs_database/
 Here is a glimpse of the application:
 
 ### Dashboard & Inventory
-![Dashboard View](screenshots/Dashboard.png)
+![Dashboard View](screenshots/dashboard.png)
 
 ### Add New
-![Add Form](screenshots/Add-new.png)
+![Add Form](screenshots/add-new.png)
 
 ### Edit
-![Edit](screenshots/Edit.png)
+![Edit](screenshots/edit.png)
 Note: This project is designed for educational purposes to demonstrate MVC and Docker implementation in PHP.
 
 🤝 Contributing
