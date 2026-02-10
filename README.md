@@ -85,11 +85,19 @@ drugs_database/
 ├── Dockerfile          # Server configuration
 ├── index.php           # Entry point (Router)
 └── README.md           # You are reading this!
-🖼️ Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
 
+## 🖼️ Screenshots
+
+Here is a glimpse of the application:
+
+### Dashboard & Inventory
+![Dashboard View](screenshots/Dashboard.png)
+
+### Add New
+![Add Form](screenshots/Add-new.png)
+
+### Edit
+![Edit](screenshots/Edit.png)
 Note: This project is designed for educational purposes to demonstrate MVC and Docker implementation in PHP.
 
 🤝 Contributing
