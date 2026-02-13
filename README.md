@@ -56,7 +56,7 @@ You don't need XAMPP or WAMP. You just need **Docker**!
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/nadimnikzai/crud_mvc_php_dockerized.git](https://github.com/nadimnikzai/crud_mvc_php_dockerized.git)
+git clone https://github.com/nadimnikzai/crud_mvc_php_dockerized.git
 cd drugs_database
 ```
 2. Run with Docker Compose 🐳
